@@ -9,6 +9,8 @@ namespace I_require_assistance
             Console.WriteLine("Hello World!");
             Console.WriteLine("Kethup and Mustard");
             Console.WriteLine("Potatoes");
+            int number = 42;
+            Console.WriteLine(number);
         }
     }
 }
