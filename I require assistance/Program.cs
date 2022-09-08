@@ -7,7 +7,7 @@ namespace I_require_assistance
         static void Main(string[] args)
         {
             // Let's try the comment thingy 
-            // Success!
+            // Success!!
             Console.WriteLine("Hello World!");
             Console.WriteLine("Kethup and Mustard");
             Console.WriteLine("Potatoes");
