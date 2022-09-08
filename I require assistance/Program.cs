@@ -12,7 +12,7 @@ namespace I_require_assistance
             Console.WriteLine("Hello World!");
             Console.WriteLine("Kethup and Mustard");
             Console.WriteLine("Potatoes");
-            int number = 42;
+            int number = 15;
             Console.WriteLine(number);
 
             string name = "Toasters";
