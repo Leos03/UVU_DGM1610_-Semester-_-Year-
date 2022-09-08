@@ -8,6 +8,7 @@ namespace I_require_assistance
         {
             // Let's try the comment thingy 
             // Success!!
+            // Reminder to commit all and push 
             Console.WriteLine("Hello World!");
             Console.WriteLine("Kethup and Mustard");
             Console.WriteLine("Potatoes");
