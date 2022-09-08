@@ -15,9 +15,13 @@ namespace I_require_assistance
             const int number = 15;
             Console.WriteLine(number);
 
-            string name = "Toasters";
+            string name = "Toaster";
             Console.WriteLine(name);
             Console.WriteLine(number + " " + name);
+
+            string kitchens = "Oven";
+            string BestAppliance = (name + " " + kitchens);
+            Console.WriteLine(BestAppliance + "   " + BestAppliance);
         }
     }
 }
