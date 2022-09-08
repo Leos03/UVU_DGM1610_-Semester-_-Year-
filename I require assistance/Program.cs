@@ -14,6 +14,10 @@ namespace I_require_assistance
             Console.WriteLine("Potatoes");
             int number = 42;
             Console.WriteLine(number);
+
+            string name = "Toasters";
+            Console.WriteLine(name);
+            Console.WriteLine(number + " " + name);
         }
     }
 }
