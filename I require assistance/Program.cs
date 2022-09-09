@@ -20,8 +20,8 @@ namespace I_require_assistance
             Console.WriteLine(number + " " + name);
 
             string kitchens = "Oven";
-            string BestAppliance = (name + " " + kitchens);
-            Console.WriteLine(BestAppliance + "   " + BestAppliance);
+            string bestAppliance = (name + " " + kitchens);
+            Console.WriteLine(bestAppliance + "   " + bestAppliance);
         }
     }
 }
