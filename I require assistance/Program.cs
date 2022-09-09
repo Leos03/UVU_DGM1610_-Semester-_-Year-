@@ -26,11 +26,11 @@ namespace I_require_assistance
             long bigNum = 36543535873735L;
             Console.WriteLine(bigNum);
             // long for big numbers, int for small numbers
-
+            Console.WriteLine("Air");
 
             bool isCSharpFun = true;
             bool isFishTasty = true;
-            Console.WriteLine(isCSharpFun);   
+            Console.WriteLine(isCSharpFun);
             Console.WriteLine(isFishTasty);
         }
     }
