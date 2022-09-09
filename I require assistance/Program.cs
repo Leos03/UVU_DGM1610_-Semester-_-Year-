@@ -22,6 +22,10 @@ namespace I_require_assistance
             string kitchens = "Oven";
             string bestAppliance = (name + " " + kitchens);
             Console.WriteLine(bestAppliance + "   " + bestAppliance);
+
+            long bigNum = 36543535873735L;
+            Console.WriteLine(bigNum);
+            // long for big numbers, int for small numbers
         }
     }
 }
