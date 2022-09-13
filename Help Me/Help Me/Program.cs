@@ -1,12 +1,23 @@
 ﻿using System;
 
-namespace Help_Me
+public class Program
 {
-    class Program
+    public void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Yay");
+        Console.WriteLine("Oh ell there");
+        DoMath(14, 2);
+        DoMath(21, 5);
+        DoMath(42, 15);
+    }
+
+    public void DoMath (int value, int value2) {
+        var number = value + value2;
+        Console.WriteLine(number);
+    }
+
+    public void Compare (int value, int value2) { 
+        if (value > value2) {
+            Console.WriteLine("True. the first greater.");
         }
     }
 }
