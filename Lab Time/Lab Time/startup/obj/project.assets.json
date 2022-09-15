@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\michelle\\Desktop\\Scripting pain\\source\\repos\\UVU_DGM1610_-Semester-_-Year-\\Lab Time\\Lab Time\\Lab Time.csproj",
-      "projectName": "Lab Time",
-      "projectPath": "C:\\Users\\michelle\\Desktop\\Scripting pain\\source\\repos\\UVU_DGM1610_-Semester-_-Year-\\Lab Time\\Lab Time\\Lab Time.csproj",
+      "projectUniqueName": "C:\\Users\\michelle\\source\\repos\\UVU_DGM1610_-Semester-_-Year-\\Lab Time\\Lab Time\\startup\\startup.csproj",
+      "projectName": "startup",
+      "projectPath": "C:\\Users\\michelle\\source\\repos\\UVU_DGM1610_-Semester-_-Year-\\Lab Time\\Lab Time\\startup\\startup.csproj",
       "packagesPath": "C:\\Users\\michelle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\michelle\\Desktop\\Scripting pain\\source\\repos\\UVU_DGM1610_-Semester-_-Year-\\Lab Time\\Lab Time\\obj\\",
+      "outputPath": "C:\\Users\\michelle\\source\\repos\\UVU_DGM1610_-Semester-_-Year-\\Lab Time\\Lab Time\\startup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\michelle\\AppData\\Roaming\\NuGet\\NuGet.Config",

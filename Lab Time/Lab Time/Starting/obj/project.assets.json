@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\michelle\\Desktop\\Scripting pain\\source\\repos\\UVU_DGM1610_-Semester-_-Year-\\Lab Time\\Lab Time\\Lab Time.csproj",
-      "projectName": "Lab Time",
-      "projectPath": "C:\\Users\\michelle\\Desktop\\Scripting pain\\source\\repos\\UVU_DGM1610_-Semester-_-Year-\\Lab Time\\Lab Time\\Lab Time.csproj",
+      "projectUniqueName": "C:\\Users\\michelle\\Desktop\\Scripting pain\\source\\repos\\UVU_DGM1610_-Semester-_-Year-\\Lab Time\\Lab Time\\Starting\\Starting.csproj",
+      "projectName": "Starting",
+      "projectPath": "C:\\Users\\michelle\\Desktop\\Scripting pain\\source\\repos\\UVU_DGM1610_-Semester-_-Year-\\Lab Time\\Lab Time\\Starting\\Starting.csproj",
       "packagesPath": "C:\\Users\\michelle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\michelle\\Desktop\\Scripting pain\\source\\repos\\UVU_DGM1610_-Semester-_-Year-\\Lab Time\\Lab Time\\obj\\",
+      "outputPath": "C:\\Users\\michelle\\Desktop\\Scripting pain\\source\\repos\\UVU_DGM1610_-Semester-_-Year-\\Lab Time\\Lab Time\\Starting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\michelle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,6 +58,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"

@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "startup": {
+      "commandName": "Executable"
+    }
+  }
+}
