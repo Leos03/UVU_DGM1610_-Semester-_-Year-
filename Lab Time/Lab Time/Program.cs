@@ -10,6 +10,8 @@ public class program
         DoMath(30, 15);
         Compare(4, 3);
         Compare(3, 4);
+        CheckPassword("BurberBing");
+        CheckPassword("BURBER15");
     }
 
     public void DoMath(int value, int value2) {

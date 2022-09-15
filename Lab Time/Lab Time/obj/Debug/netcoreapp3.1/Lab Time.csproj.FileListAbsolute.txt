@@ -1,0 +1,5 @@
+C:\Users\michelle\source\repos\UVU_DGM1610_-Semester-_-Year-\Lab Time\Lab Time\obj\Debug\netcoreapp3.1\Lab Time.csproj.AssemblyReference.cache
+C:\Users\michelle\source\repos\UVU_DGM1610_-Semester-_-Year-\Lab Time\Lab Time\obj\Debug\netcoreapp3.1\Lab Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michelle\source\repos\UVU_DGM1610_-Semester-_-Year-\Lab Time\Lab Time\obj\Debug\netcoreapp3.1\Lab Time.AssemblyInfoInputs.cache
+C:\Users\michelle\source\repos\UVU_DGM1610_-Semester-_-Year-\Lab Time\Lab Time\obj\Debug\netcoreapp3.1\Lab Time.AssemblyInfo.cs
+C:\Users\michelle\source\repos\UVU_DGM1610_-Semester-_-Year-\Lab Time\Lab Time\obj\Debug\netcoreapp3.1\Lab Time.csproj.CoreCompileInputs.cache
