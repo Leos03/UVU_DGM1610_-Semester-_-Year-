@@ -16,3 +16,12 @@ public class program
         var number = value + value2;
         Console.WriteLine(number);
     }
+
+    public void Compare(int value, int value2) {
+        if (value > value2) {
+            Console.WriteLine("True, the first is greater.");
+        } else {
+            Console.WriteLine("False, the second is greater.");
+        }
+    }
+}
