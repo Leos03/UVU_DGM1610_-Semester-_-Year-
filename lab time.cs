@@ -1,8 +1,5 @@
 ﻿using System;
 
-public class Class1
+public class program
 {
-	public Class1()
-	{
-	}
-}
+    public void Main ()
